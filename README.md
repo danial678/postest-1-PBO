@@ -32,7 +32,7 @@ Tanggal Produksi
 
 Kondisi
 
-## Output 
+## Output (Alur Program)
 
 ### Menu
 
@@ -132,7 +132,7 @@ Menu ini digunakan untuk menghentikan jalannya program.
 
 3). Setelah itu, aplikasi selesai dijalankan.
 
-## Alur Program
+## Flow Sederhana
 
 Mulai Program
 
