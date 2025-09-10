@@ -172,5 +172,25 @@ User Pilih Menu
    
    v
    
-Ulangi (kecuali pilih 5)
+"Ulangi (kecuali pilih 5)
 
+Mulai Program
+|
+v
+Tampilkan Menu
+|
+v
+User Pilih Menu
+|
++--> [1] Tambah Mainan --> Input data --> Simpan ke ArrayList
+|
++--> [2] Lihat Semua --> Tampilkan isi ArrayList
+|
++--> [3] Update --> Pilih index --> Ganti data
+|
++--> [4] Hapus --> Pilih index --> Hapus dari ArrayList
+|
++--> [5] Keluar --> Selesai
+|
+v
+Ulangi (kecuali pilih 5)"
