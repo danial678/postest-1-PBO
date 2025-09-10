@@ -172,9 +172,9 @@ User Pilih Menu
    
    v
    
-''' Ulangi (kecuali pilih 5)
+Ulangi (kecuali pilih 5)
 
-Mulai Program
+<pre>''' Mulai Program
 |
 v
 Tampilkan Menu
@@ -193,4 +193,4 @@ User Pilih Menu
 +--> [5] Keluar --> Selesai
 |
 v
-Ulangi (kecuali pilih 5) '''
+Ulangi (kecuali pilih 5) '''<pre>
