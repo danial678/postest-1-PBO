@@ -172,7 +172,7 @@ User Pilih Menu
    
    v
    
-"Ulangi (kecuali pilih 5)
+'''Ulangi (kecuali pilih 5)
 
 Mulai Program
 |
@@ -193,4 +193,4 @@ User Pilih Menu
 +--> [5] Keluar --> Selesai
 |
 v
-Ulangi (kecuali pilih 5)"
+Ulangi (kecuali pilih 5)'''
