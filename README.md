@@ -99,3 +99,58 @@ Data lama kemudian digantikan dengan data baru di posisi yang sama.
 
 Jika berhasil, program menampilkan pesan konfirmasi seperti "Data mainan berhasil diperbarui!".
 
+### Menu Hapus Mainan
+
+<img width="1104" height="149" alt="image" src="https://github.com/user-attachments/assets/fe4f82eb-4ed5-4fc0-af8c-e2047eea7c0b" />
+
+
+Di menu ini, pengguna dapat menghapus data mainan dari daftar koleksi yang tersimpan di dalam ArrayList.
+
+1). Program terlebih dahulu menampilkan daftar mainan dengan nomor indeks.
+
+2). Pengguna diminta memilih nomor mainan yang ingin dihapus.
+
+3). Setelah pilihan dimasukkan, program akan menghapus data mainan tersebut dari ArrayList.
+
+4). Program kemudian menampilkan pesan konfirmasi, misalnya:
+"Mainan berhasil dihapus dari daftar!"
+
+5). Jika pengguna memilih nomor yang tidak valid, program akan menampilkan pesan error seperti:
+"Nomor mainan tidak ditemukan."
+
+### Menu Keluar
+
+<img width="557" height="297" alt="image" src="https://github.com/user-attachments/assets/23b1c1d5-4d09-4400-869d-ee77f886e927" />
+
+
+Menu ini digunakan untuk menghentikan jalannya program.
+
+1). Jika pengguna memilih opsi Keluar, perulangan utama (do-while) akan berhenti.
+
+2). Program kemudian menampilkan pesan penutup, misalnya:
+"Terima kasih telah menggunakan program Manajemen Koleksi Mainan!"
+
+3). Setelah itu, aplikasi selesai dijalankan.
+
+## Alur Program
+
+Mulai Program
+   |
+   v
+Tampilkan Menu
+   |
+   v
+User Pilih Menu
+   |
+   +--> [1] Tambah Mainan --> Input data --> Simpan ke ArrayList
+   |
+   +--> [2] Lihat Semua --> Tampilkan isi ArrayList
+   |
+   +--> [3] Update --> Pilih index --> Ganti data
+   |
+   +--> [4] Hapus --> Pilih index --> Hapus dari ArrayList
+   |
+   +--> [5] Keluar --> Selesai
+   |
+   v
+Ulangi (kecuali pilih 5)
